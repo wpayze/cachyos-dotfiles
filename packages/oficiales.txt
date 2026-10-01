@@ -1,4 +1,3 @@
-1password-cli
 accountsservice
 alacritty
 alsa-firmware
@@ -83,7 +82,6 @@ gimp
 git
 github-cli
 glances
-google-chrome
 gst-libav
 gst-plugin-pipewire
 gst-plugin-va
@@ -217,7 +215,6 @@ usb_modeswitch
 usbutils
 ventoy-bin
 vim
-visual-studio-code-bin
 vlc-plugins-all
 vulkan-radeon
 wget
