@@ -1,0 +1,3 @@
+1password-cli
+google-chrome
+visual-studio-code-bin
