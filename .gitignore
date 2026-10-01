@@ -1,0 +1,23 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Secretos locales
+.env
+*.key
+*.pem
+
+# Claude Code (configuración local)
+.claude/settings.local.json
