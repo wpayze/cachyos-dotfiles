@@ -7,7 +7,7 @@ Package synchronization between my two CachyOS machines (desktop PC + laptop).
 | File | Description |
 | --- | --- |
 | `packages/oficiales.txt` | Packages installed from the official repos (`pacman`) |
-| `packages/aur.txt` | Packages installed from the AUR (`yay`) |
+| `packages/aur.txt` | Packages installed from the AUR (`paru`) |
 | `sync-export.sh` | Exports the current package list and pushes it to the repository |
 | `sync-install.sh` | Pulls the latest list from the repository and installs everything |
 
@@ -31,7 +31,7 @@ On the other machine, to match it:
 ./sync-install.sh
 ```
 
-This runs `git pull` and then installs anything missing with `pacman` and `yay`.
+This runs `git pull` and then installs anything missing with `pacman` and `paru`.
 
 ## First time on a new machine
 
