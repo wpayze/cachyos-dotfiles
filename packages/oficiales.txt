@@ -201,6 +201,10 @@ snapper
 sof-firmware
 spectacle
 sudo
+syncthing
+syncthingtray
+syncthingtray-dolphin
+syncthingtray-plasma
 sysfsutils
 tesseract-data-eng
 texinfo
