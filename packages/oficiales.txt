@@ -94,6 +94,7 @@ hdparm
 hwdetect
 hwinfo
 inetutils
+iotas
 iwd
 jdk21-openjdk
 jfsutils

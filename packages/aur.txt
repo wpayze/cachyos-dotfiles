@@ -1,4 +1,5 @@
 1password-cli
 google-chrome
+rustdesk-bin
 upscayl-bin
 visual-studio-code-bin
