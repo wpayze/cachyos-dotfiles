@@ -50,6 +50,7 @@ chwd
 claude-desktop
 cpupower
 cryptsetup
+curtail
 dbeaver
 device-mapper
 diffutils
@@ -96,6 +97,7 @@ inetutils
 iwd
 jdk21-openjdk
 jfsutils
+kamoso
 kate
 kcalc
 kde-gtk-config
@@ -151,6 +153,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 npm
 nss-mdns
+okular
 opencl-mesa
 openssh
 os-prober
@@ -217,6 +220,7 @@ ventoy-bin
 vim
 vlc-plugins-all
 vulkan-radeon
+warpinator
 wget
 which
 wireplumber
