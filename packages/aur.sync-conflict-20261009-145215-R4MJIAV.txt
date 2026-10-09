@@ -1,0 +1,4 @@
+1password-cli
+google-chrome
+upscayl-bin
+visual-studio-code-bin

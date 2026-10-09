@@ -75,7 +75,6 @@ fastfetch
 ffmpegthumbnailer
 ffmpegthumbs
 filelight
-filezilla
 firefox
 flatpak
 fsarchiver
@@ -95,7 +94,6 @@ hdparm
 hwdetect
 hwinfo
 inetutils
-iotas
 iwd
 jdk21-openjdk
 jfsutils
@@ -189,7 +187,6 @@ python
 python-cryptography
 python-defusedxml
 python-packaging
-qbittorrent
 realtime-privileges
 rebuild-detector
 reflector
